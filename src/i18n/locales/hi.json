@@ -1,0 +1,87 @@
+{
+  "app": {
+    "name": "जेनोरा",
+    "tagline": "आपका एआई-संचालित मानसिक स्वास्थ्य साथी"
+  },
+  "nav": {
+    "dashboard": "डैशबोर्ड",
+    "journal": "डायरी",
+    "zenora": "जेनोरा",
+    "exercises": "व्यायाम",
+    "rewards": "पुरस्कार",
+    "insights": "अंतर्दृष्टि",
+    "settings": "सेटिंग्स",
+    "wellnessResources": "कल्याण संसाधन"
+  },
+  "auth": {
+    "signIn": "साइन इन",
+    "signUp": "साइन अप",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "confirmPassword": "पासवर्ड की पुष्टि करें",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "createAccount": "खाता बनाएं",
+    "alreadyHaveAccount": "क्या आपका पहले से खाता है?",
+    "dontHaveAccount": "क्या आपका खाता नहीं है?",
+    "signOut": "साइन आउट"
+  },
+  "dashboard": {
+    "welcome": "वापसी पर स्वागत है",
+    "todaysMood": "आज का मूड",
+    "weeklyProgress": "साप्ताहिक प्रगति",
+    "streakCounter": "दिन की लकीर",
+    "quickActions": "त्वरित क्रियाएं"
+  },
+  "journal": {
+    "title": "डायरी",
+    "writeEntry": "नई प्रविष्टि लिखें",
+    "moodTracker": "आप कैसा महसूस कर रहे हैं?",
+    "saveEntry": "प्रविष्टि सहेजें",
+    "entries": "आपकी प्रविष्टियां"
+  },
+  "zenora": {
+    "title": "जेनोरा",
+    "placeholder": "आज आप कैसा महसूस कर रहे हैं? मैं सुनने के लिए यहाँ हूँ...",
+    "send": "भेजें",
+    "listening": "सुन रहा है...",
+    "speaking": "बोल रहा है...",
+    "voiceInput": "आवाज इनपुट",
+    "textToSpeech": "टेक्स्ट टू स्पीच"
+  },
+  "exercises": {
+    "title": "कल्याण व्यायाम",
+    "breathing": "सांस लेना",
+    "grounding": "ग्राउंडिंग",
+    "movement": "गति",
+    "gratitude": "कृतज्ञता",
+    "sleep": "नींद तैयारी"
+  },
+  "moods": {
+    "great": "बहुत अच्छा",
+    "good": "अच्छा",
+    "okay": "ठीक है",
+    "low": "कम",
+    "difficult": "कठिन"
+  },
+  "common": {
+    "loading": "लोड हो रहा है...",
+    "save": "सहेजें",
+    "cancel": "रद्द करें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "close": "बंद करें",
+    "next": "अगला",
+    "previous": "पिछला",
+    "start": "शुरू करें",
+    "stop": "रोकें",
+    "pause": "रोकें",
+    "resume": "जारी रखें"
+  },
+  "crisis": {
+    "title": "संकट सहायता",
+    "subtitle": "यदि आप संकट में हैं, तो 24/7 सहायता उपलब्ध है",
+    "national": "राष्ट्रीय आत्महत्या रोकथाम हेल्पलाइन",
+    "crisis": "संकट टेक्स्ट लाइन",
+    "emergency": "आपातकालीन सेवाएं"
+  }
+}

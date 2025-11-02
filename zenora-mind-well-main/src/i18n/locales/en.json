@@ -1,0 +1,87 @@
+{
+  "app": {
+    "name": "Zenora",
+    "tagline": "Your AI-Powered Mental Wellness Companion"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "journal": "Journal",
+    "zenora": "Zenora",
+    "exercises": "Exercises",
+    "rewards": "Rewards",
+    "insights": "Insights",
+    "settings": "Settings",
+    "wellnessResources": "Wellness Resources"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "forgotPassword": "Forgot Password?",
+    "createAccount": "Create Account",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?",
+    "signOut": "Sign Out"
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "todaysMood": "Today's Mood",
+    "weeklyProgress": "Weekly Progress",
+    "streakCounter": "Day Streak",
+    "quickActions": "Quick Actions"
+  },
+  "journal": {
+    "title": "Journal",
+    "writeEntry": "Write New Entry",
+    "moodTracker": "How are you feeling?",
+    "saveEntry": "Save Entry",
+    "entries": "Your Entries"
+  },
+  "zenora": {
+    "title": "Zenora",
+    "placeholder": "How are you feeling today? I'm here to listen...",
+    "send": "Send",
+    "listening": "Listening...",
+    "speaking": "Speaking...",
+    "voiceInput": "Voice Input",
+    "textToSpeech": "Text to Speech"
+  },
+  "exercises": {
+    "title": "Wellness Exercises",
+    "breathing": "Breathing",
+    "grounding": "Grounding",
+    "movement": "Movement",
+    "gratitude": "Gratitude",
+    "sleep": "Sleep Prep"
+  },
+  "moods": {
+    "great": "Great",
+    "good": "Good",
+    "okay": "Okay",
+    "low": "Low",
+    "difficult": "Difficult"
+  },
+  "common": {
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "next": "Next",
+    "previous": "Previous",
+    "start": "Start",
+    "stop": "Stop",
+    "pause": "Pause",
+    "resume": "Resume"
+  },
+  "crisis": {
+    "title": "Crisis Support",
+    "subtitle": "If you're in crisis, help is available 24/7",
+    "national": "National Suicide Prevention Lifeline",
+    "crisis": "Crisis Text Line",
+    "emergency": "Emergency Services"
+  }
+}
